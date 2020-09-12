@@ -1,7 +1,4 @@
-This is my first file for github
+This is my first file for github.
+hosts file for Ansible
 
 
-
-
-
-S
